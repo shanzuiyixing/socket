@@ -1,0 +1,15 @@
+﻿  client.cpp
+E:\My VS project\Socket\Socket\client.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  host.cpp
+E:\My VS project\Socket\Socket\host.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+E:\My VS project\Socket\Socket\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\My VS project\Socket\Socket\main.cpp(7,1): warning C4005: “DEBUG”: 宏重定义
+E:\My VS project\Socket\Socket\main.h(4,1): message : 参见“DEBUG”的前一个定义
+  正在生成代码...
+E:\My VS project\Socket\Socket\host.cpp(127): warning C4715: “Host::recv_host”: 不是所有的控件路径都返回值
+E:\My VS project\Socket\Socket\host.cpp(162): warning C4715: “Host::send_host”: 不是所有的控件路径都返回值
+E:\My VS project\Socket\Socket\client.cpp(101): warning C4715: “Client::connect_client”: 不是所有的控件路径都返回值
+E:\My VS project\Socket\Socket\client.cpp(50): warning C4715: “Client::creat_client”: 不是所有的控件路径都返回值
+E:\My VS project\Socket\Socket\client.cpp(144): warning C4715: “Client::close_client”: 不是所有的控件路径都返回值
+  Socket.vcxproj -> E:\My VS project\Socket\x64\Debug\Socket.exe
